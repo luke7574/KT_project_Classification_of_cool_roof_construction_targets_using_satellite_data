@@ -1,1 +1,0 @@
-# KT_project_Classification_of_cool_roof_construction_targets_using_satellite_data
