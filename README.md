@@ -19,23 +19,18 @@
 ## ✔️데이터 소개
 ![image](https://github.com/user-attachments/assets/96a223bb-2a75-4cc6-ac09-83842470e08a)
 ![image](https://github.com/user-attachments/assets/854df60a-890c-4c4c-b042-32259722a5a7)
-![image](https://github.com/user-attachments/assets/0fb08b9f-28f4-41a9-b041-024c6d74231c)
-
+- **기본 학습데이터에서 추가로 직접 수집(labeling)하여 최종적으로 train : 318개 / val : 28개 사용함** 
 ---
 ## ✔️YOLO 모델 사용하기
 1) 폴더 생성
 
-![image](https://github.com/user-attachments/assets/7d2f2d31-930c-4757-b544-ab21aadf2904)
+   ![image](https://github.com/user-attachments/assets/5400cee7-f79d-4b9f-9f0d-102f9fb8ff45)
 
-2) 이미지 데이터들과, 라벨 데이터들을 train_test_split, 생성한 폴더로 이동
+2) Yolo모델에 적용할 YAML 생성
 
-![image](https://github.com/user-attachments/assets/4cc8b11f-19b1-46d9-85bb-e4670263592c)
+![image](https://github.com/user-attachments/assets/7710d634-ee4c-4b33-8a16-94bc0f9a0434)
 
-3) Yolo모델에 적용할 YAML 생성
-
-![image](https://github.com/user-attachments/assets/8175e2b2-f2da-4c6a-88fd-340e4345ce94)
-
-4) Yolo v8모델 이용(task = detect)
+3) Yolo v8모델 이용(task = detect)
 
 ![image](https://github.com/user-attachments/assets/38f34fc8-b9ff-461d-ad03-370b57478a17)
 
