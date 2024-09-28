@@ -19,6 +19,8 @@
 ## ✔️데이터 소개
 ![image](https://github.com/user-attachments/assets/96a223bb-2a75-4cc6-ac09-83842470e08a)
 ![image](https://github.com/user-attachments/assets/854df60a-890c-4c4c-b042-32259722a5a7)
+![image](https://github.com/user-attachments/assets/18903633-954c-4e89-b33c-c1146835f29f)
+
 - **기본 학습데이터에서 추가로 직접 수집(labeling)하여 최종적으로 train : 318개 / val : 28개 사용함** 
 ---
 ## ✔️YOLO 모델 사용하기
